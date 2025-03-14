@@ -1,8 +1,8 @@
 # </> selenium flow builder app 👾
 Web app for building Selenium automation flows using React and Tailwind CSS. Allows users to visually construct Selenium test scripts and generate executable Python code.
 
-![app01](sc.sel01)
-![app02](sc.sel02)
+![app01](sc_selen01.jpg)
+![app02](sc_selen02.jpg)
 
 
 ## Key Features 🌐
